@@ -64,5 +64,181 @@ export const newsArticles = [
     category: "Science",
     image: "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=800",
     featured: false
+  },
+  {
+    id: 7,
+    title: "Quantum Computing Achieves Major Milestone",
+    excerpt: "Researchers successfully demonstrate quantum supremacy with new 1000-qubit processor, marking a new era in computing.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Dr. Alan Turing",
+    date: "2025-09-22",
+    category: "Technology",
+    image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800",
+    featured: false
+  },
+  {
+    id: 8,
+    title: "5G Networks Roll Out Globally, Transforming Connectivity",
+    excerpt: "Next-generation wireless technology becomes available in over 150 countries, enabling unprecedented mobile speeds.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Maria Garcia",
+    date: "2025-09-21",
+    category: "Technology",
+    image: "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=800",
+    featured: false
+  },
+  {
+    id: 9,
+    title: "Electric Vehicle Sales Surpass Gas-Powered Cars",
+    excerpt: "For the first time in history, EV sales outpace traditional vehicles, signaling major shift in automotive industry.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Robert Tesla",
+    date: "2025-09-20",
+    category: "Technology",
+    image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800",
+    featured: false
+  },
+  {
+    id: 10,
+    title: "Champions League Final: Historic Upset Stuns Fans",
+    excerpt: "Underdog team defeats heavily favored opponents in thrilling penalty shootout, claiming first-ever title.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Chris Martinez",
+    date: "2025-09-19",
+    category: "Sports",
+    image: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=800",
+    featured: false
+  },
+  {
+    id: 11,
+    title: "Olympic Games Begin with Spectacular Opening Ceremony",
+    excerpt: "Athletes from 200+ nations gather for the world's premier sporting event in stunning celebration of unity.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Jennifer Park",
+    date: "2025-09-18",
+    category: "Sports",
+    image: "https://images.unsplash.com/photo-1569517282132-25d22f4573e6?w=800",
+    featured: false
+  },
+  {
+    id: 12,
+    title: "Tennis Legend Announces Retirement After Historic Career",
+    excerpt: "23-time Grand Slam champion bids emotional farewell to professional tennis after decades of dominance.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Tom Williams",
+    date: "2025-09-17",
+    category: "Sports",
+    image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=800",
+    featured: false
+  },
+  {
+    id: 13,
+    title: "Blockbuster Film Breaks Opening Weekend Records",
+    excerpt: "Highly anticipated superhero sequel earns $500M globally in first three days, shattering all previous records.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Rachel Green",
+    date: "2025-09-16",
+    category: "Entertainment",
+    image: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800",
+    featured: false
+  },
+  {
+    id: 14,
+    title: "Music Festival Announces Star-Studded Lineup",
+    excerpt: "World's largest music festival reveals headliners featuring top artists across all genres for summer event.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Alex Turner",
+    date: "2025-09-15",
+    category: "Entertainment",
+    image: "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800",
+    featured: false
+  },
+  {
+    id: 15,
+    title: "Streaming Platform Launches Revolutionary VR Experience",
+    excerpt: "Major streaming service introduces immersive virtual reality content, transforming home entertainment.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Sam Chen",
+    date: "2025-09-14",
+    category: "Entertainment",
+    image: "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?w=800",
+    featured: false
+  },
+  {
+    id: 16,
+    title: "Wellness Trend: Mindfulness Apps See Massive Growth",
+    excerpt: "Mental health applications report 300% increase in users as people prioritize self-care and meditation.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Lisa Anderson",
+    date: "2025-09-13",
+    category: "Lifestyle",
+    image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800",
+    featured: false
+  },
+  {
+    id: 17,
+    title: "Plant-Based Diet Revolution Sweeps Across Nations",
+    excerpt: "Millions adopt vegetarian and vegan lifestyles as sustainability and health concerns drive dietary changes.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Emma Watson",
+    date: "2025-09-12",
+    category: "Lifestyle",
+    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800",
+    featured: false
+  },
+  {
+    id: 18,
+    title: "Remote Work Becomes Permanent for Major Corporations",
+    excerpt: "Fortune 500 companies announce permanent hybrid work models, reshaping modern workplace culture.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Marcus Johnson",
+    date: "2025-09-11",
+    category: "Lifestyle",
+    image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800",
+    featured: false
+  },
+  {
+    id: 19,
+    title: "Cryptocurrency Market Cap Reaches $5 Trillion",
+    excerpt: "Digital currency adoption accelerates as institutional investors and governments embrace blockchain technology.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Sarah Nakamoto",
+    date: "2025-09-10",
+    category: "Business",
+    image: "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=800",
+    featured: false
+  },
+  {
+    id: 20,
+    title: "Tech Giants Announce Historic Merger Agreement",
+    excerpt: "Two leading technology companies join forces in $200 billion deal, creating world's most valuable corporation.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "David Zhang",
+    date: "2025-09-09",
+    category: "Business",
+    image: "https://images.unsplash.com/photo-1664575602554-2087b04935a5?w=800",
+    featured: false
+  },
+  {
+    id: 21,
+    title: "Sustainable Fashion Takes Center Stage at Fashion Week",
+    excerpt: "Designers showcase eco-friendly collections, highlighting industry's commitment to environmental responsibility.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Olivia Harper",
+    date: "2025-09-08",
+    category: "Lifestyle",
+    image: "https://images.unsplash.com/photo-1558769132-cb1aea8f6b32?w=800",
+    featured: false
+  },
+  {
+    id: 22,
+    title: "Startup Unicorns Multiply as Venture Capital Surges",
+    excerpt: "Record-breaking year for tech startups as 100+ companies achieve billion-dollar valuations.",
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    author: "Kevin Li",
+    date: "2025-09-07",
+    category: "Business",
+    image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800",
+    featured: false
   }
 ];
