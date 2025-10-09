@@ -34,7 +34,7 @@ const Contact = () => {
 
       const data = await response.json();
 
-      if (data.success) {
+      if (response.ok && data.success) {
         setStatus({
           type: 'success',
           message: data.message
@@ -43,7 +43,7 @@ const Contact = () => {
       } else {
         setStatus({
           type: 'error',
-          message: data.message
+          message: data.message || 'Failed to send message. Please try again.'
         });
       }
     } catch (error) {
